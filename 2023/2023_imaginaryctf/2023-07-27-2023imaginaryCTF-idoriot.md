@@ -2,7 +2,7 @@
 title: 2023 ImaginaryCTF - idoriot
 author: Gr33nM0nk3y
 date: 2023-07-23 00:00:00 +0700
-categories: [Write-ups, 2023imaginaryCTF]
+categories: [Write-ups, 2023_imaginaryCTF]
 tags: [Web Exploitation, write-ups]
 ---
 

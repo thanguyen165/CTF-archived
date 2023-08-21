@@ -2,7 +2,7 @@
 title: 2023 corCTF - touch-grass
 author: Gr33nM0nk3y
 date: 2023-07-31 00:00:00 +0700
-categories: [Write-ups, 2023corCTF]
+categories: [Write-ups, 2023_corCTF]
 tags: [Misc, write-ups]
 ---
 
@@ -17,7 +17,7 @@ tags: [Misc, write-ups]
 >
 > Trying to trick this system will result in your team being placed on a hall of SHAME - the entire world will know that you don't touch grass!
 >
-> https://touch-grass.be.ax/
+> [https://touch-grass.be.ax/](https://touch-grass.be.ax/)
 
 ## Analyzation
 
@@ -36,6 +36,8 @@ please do not forget the above code, we need it to make sure that you didn't pho
 ## Solution
 
 Do exactly what they said.
+
+![touch-grass](/assets/posts_images/CTF-writeups/2023/2023_corCTF/touchgrass.jpg){:max-width="100"}
 
 The flag is
 ```
