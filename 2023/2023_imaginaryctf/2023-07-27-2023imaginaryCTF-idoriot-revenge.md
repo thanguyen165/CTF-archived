@@ -1,6 +1,6 @@
 ---
 title: 2023 ImaginaryCTF - idoriot revenge
-author: Gr33nM0nk3y
+author: thanguyen165
 date: 2023-07-23 00:00:00 +0700
 categories: [Write-ups, 2023_imaginaryCTF]
 tags: [Web Exploitation, write-ups]

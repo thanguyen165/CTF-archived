@@ -1,6 +1,6 @@
 ---
 title: 2023 corCTF - msfrognymize
-author: Gr33nM0nk3y
+author: thanguyen165
 date: 2023-07-31 00:00:00 +0700
 categories: [Write-ups, 2023_corCTF]
 tags: [Web Exploitation, write-ups]
