@@ -35,9 +35,7 @@ please do not forget the above code, we need it to make sure that you didn't pho
 
 ## Solution
 
-Do exactly what they said.
-
-![touch-grass](/assets/posts_images/CTF-writeups/2023/2023_corCTF/touchgrass.jpg){:max-width="100"}
+Do exactly what they said, post an image!
 
 The flag is
 ```
