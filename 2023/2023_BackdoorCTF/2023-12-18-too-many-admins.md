@@ -3,7 +3,7 @@ title: 2023 BackdoorCTF - too-many-admins
 author: thanguyen165
 date: 2023-12-18 00:00:00 +0700
 categories: [Write-ups, 2023_BackdoorCTF]
-tags: [Web Exploitation, write-ups]
+tags: [Web Exploitation, SQL injection]
 ---
 
 * 239 solves / 314 points

@@ -3,7 +3,7 @@ title: 2023 CakeCTF - Country DB
 author: thanguyen165
 date: 2023-11-11 00:00:00 +0700
 categories: [Write-ups, 2023_CakeCTF]
-tags: [Web Exploitation, write-ups]
+tags: [Web Exploitation, SQL injection]
 ---
 
 * 68 points / 246 solves

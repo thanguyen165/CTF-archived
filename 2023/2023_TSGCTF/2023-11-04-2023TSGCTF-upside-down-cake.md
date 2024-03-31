@@ -3,7 +3,7 @@ title: 2023 TSGCTF - Upside down cake
 author: thanguyen165
 date: 2023-11-04 00:00:00 +0700
 categories: [Write-ups, 2023_TSGCTF]
-tags: [Web Exploitation, write-ups]
+tags: [Web Exploitation]
 ---
 
 * 100 points / 127 solves

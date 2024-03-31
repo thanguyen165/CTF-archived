@@ -3,7 +3,7 @@ title: 2024 LACTF - mixed signals
 author: thanguyen165
 date: 2024-02-18 00:00:00 +0700
 categories: [Write-ups, 2024_LACTF]
-tags: [Misc, write-ups]
+tags: [Misc]
 ---
 
 * 471 solves / 185 points

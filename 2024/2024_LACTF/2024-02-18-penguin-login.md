@@ -3,7 +3,7 @@ title: 2024 LACTF - penguin-login
 author: thanguyen165
 date: 2024-02-18 00:00:00 +0700
 categories: [Write-ups, 2024_LACTF]
-tags: [Web Exploitation, write-ups]
+tags: [Web Exploitation, SQL injection]
 ---
 
 * 182 solves / 392 points

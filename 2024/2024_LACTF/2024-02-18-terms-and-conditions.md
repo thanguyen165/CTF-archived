@@ -3,7 +3,7 @@ title: 2024 LACTF - terms-and-conditions
 author: thanguyen165
 date: 2024-02-18 00:00:00 +0700
 categories: [Write-ups, 2024_LACTF]
-tags: [Web Exploitation, write-ups]
+tags: [Web Exploitation]
 ---
 
 * 771 solves / 106 points

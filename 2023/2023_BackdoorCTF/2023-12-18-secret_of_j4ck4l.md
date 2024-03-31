@@ -3,7 +3,7 @@ title: 2023 BackdoorCTF - secret_of_j4ck4l
 author: thanguyen165
 date: 2023-12-18 00:00:00 +0700
 categories: [Write-ups, 2023_BackdoorCTF]
-tags: [Web Exploitation, write-ups]
+tags: [Web Exploitation, Path traversal]
 ---
 
 * 326 solves / 237 points
@@ -79,7 +79,11 @@ if __name__ == '__main__':
 
 ## Analyzation
 
-Make a path traversal and we got the flag. ```http://34.132.132.69:8003/read_secret_message?file={payload}```
+Make a path traversal and we got the flag.
+
+```
+http://34.132.132.69:8003/read_secret_message?file={payload}
+```
 
 But the payload has to pass the filter
 

@@ -3,7 +3,7 @@ title: 2023 corCTF - touch-grass
 author: thanguyen165
 date: 2023-07-31 00:00:00 +0700
 categories: [Write-ups, 2023_corCTF]
-tags: [Misc, write-ups]
+tags: [Misc]
 ---
 
 * 89 solves / 133 points
